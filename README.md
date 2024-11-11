@@ -9,6 +9,7 @@ _____________________________
 |    :----:   | :---        |
 | Vi          | Zaun        |
 | Jinx        | Zaun        |
+| Ekko        | Zaun        |
 | Caitlyn     | Piltover    |
 | Jayce       | Piltover    |
 | Viktor      | Piltover    |
